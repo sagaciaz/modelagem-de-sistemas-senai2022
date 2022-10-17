@@ -1,0 +1,5 @@
+Pizzaria
+Minha pizzaria tem 1 pessoa no caixa e mais 3 pessoas na cozinha, o pedido da pizza deverá ser feito no caixa pelo cliente e o 
+caixa deverá perguntar o nome cliente para que quando fique pronto o caixa chame o cliente, o caixa deverá checar o cupom fiscal pra ver se o pedido
+condiz com a nota fiscal e nome do cliente. O pedido só será efetuado depois do pagamento, após isso a pizza irá para a produção na cozinha, 
+os cozinheiros têm de preparar e embalar as pizzas, após finalizadas o caixa recebe a pizza e chama o cliente pra retirada.
